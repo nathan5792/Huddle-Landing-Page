@@ -27,7 +27,7 @@ This is my solution to the Huddle-Landing-Page on Frontend Mentor. Frontend Ment
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nathan5792.github.io/Huddle-Landing-Page/
 
 ## My process
 -Started by setting up the basic HTML structure with semantic elements.

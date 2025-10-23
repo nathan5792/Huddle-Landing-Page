@@ -26,7 +26,7 @@ This is my solution to the Huddle-Landing-Page on Frontend Mentor. Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/nathan5792/Huddle-Landing-Page.git
 - Live Site URL: https://nathan5792.github.io/Huddle-Landing-Page/
 
 ## My process
